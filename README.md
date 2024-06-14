@@ -10,7 +10,7 @@
 
    ![image](https://github.com/mudith-nahata/Hand-Written-Digit-Recognition-Using-ANN/assets/96544398/4fb238de-3d3e-4ee4-b8b4-3fa8f5673e03)
 
-   Libraries Used: NumPy, Pandas, Matplotlib, Tensforflow, Keras
+   Libraries Used: NumPy, Pandas, Matplotlib, Tensorflow, Keras
 
    Technologies:   Deep Learning Neural Networks
 
