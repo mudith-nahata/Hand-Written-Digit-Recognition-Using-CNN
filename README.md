@@ -2,9 +2,9 @@
 
 --> The Hand Written Digit Recognition Consist of 70,000 images in both the training set and test set
 
---> The Images which Consist of low resolution and each pixel in the row consist as the each input to the input layer in the ANN Model
+--> The Images which Consist of low resolution and each pixel in the row consist as the each input to the input layer in the CNN Model
 
---> The Goal was to build an Artificial Neural Network and to explore the realms of ANN that how the Neural Network 
+--> The Goal was to build an Convolution Neural Network and to explore the realms of CNN that how the Neural Network 
     classifies the images and     works on the Multi-class  Classification Problem and acheived the accuracy of 97%
 
 
