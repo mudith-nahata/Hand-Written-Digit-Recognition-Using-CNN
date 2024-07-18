@@ -1,4 +1,4 @@
-# Hand-Written-Digit-Recognition-Using-ANN
+# Hand-Written-Digit-Recognition-Using-CNN
 
 --> The Hand Written Digit Recognition Consist of 70,000 images in both the training set and test set
 
